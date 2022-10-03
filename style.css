@@ -1,0 +1,10 @@
+.test{
+    border: 1px solid red;
+    width:600px;
+    height:100px;
+}
+.child{
+    border: 1px solid green;
+    width:60px;
+    height:10px;
+   
